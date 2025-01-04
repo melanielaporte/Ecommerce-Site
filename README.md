@@ -1,4 +1,4 @@
-<h1>Ecommerce Website Template</h1>
+<h1>Ecommerce Theme Template</h1>
 
 ## Figma UI Design 
-![ecommerceSite](https://github.com/user-attachments/assets/ecaf189c-7671-406c-a693-bd40b745e344)
+![Ecommerce Theme UI Design](https://github.com/user-attachments/assets/f02f515a-07f0-4641-831c-a4ff60f55e04)
